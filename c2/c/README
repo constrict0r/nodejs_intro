@@ -1,0 +1,7 @@
+# First terminal.
+cd mock-srv
+npm install
+npm run dev
+
+# Second terminal.
+serve -p 5050 static

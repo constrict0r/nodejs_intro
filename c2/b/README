@@ -1,0 +1,5 @@
+# First terminal.
+node server.js
+
+# Second terminal.
+serve -p 5050 static
